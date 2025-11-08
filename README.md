@@ -153,9 +153,8 @@ pip install -r requirements.txt
 - Key factors influencing accident severity.
 - Data-driven recommendations for improving traffic safety.
 
-## Contributors
-- Milos Mirkovic, Sebastian Wegstein
-
+## Contributor
+- Milos Mirkovic
 ## License
 MIT License
 # Traffic-Accidents-Germany
